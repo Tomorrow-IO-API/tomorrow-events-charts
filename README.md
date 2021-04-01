@@ -18,4 +18,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project exists thanks to our engineers building the [Tomorrow.io Weather API](https://tomorrow.io).
 
 ### License ###
-Licensed under the [CC BY 4.0 License](./LICENSE) license.
+Licensed under the [MIT License](./LICENSE) license.
