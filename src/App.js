@@ -10,7 +10,7 @@ class App extends React.Component {
       apikey: "add your API key here",
       // pick the location, as a latlong pair array, GeoJSON geometry or predefined ID
       location: "5d6472a671330c000899876e",
-      // list the fields, can also include custom insights for monitored locations
+      // list the insights, can also include custom insights for monitored locations
       insights: ["winter", "wind", "temperature", "floods"],
       // set the safety buffer around the location, applicable only to insight categories only
       buffer: 20
