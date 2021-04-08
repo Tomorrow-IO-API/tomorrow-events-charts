@@ -12,7 +12,7 @@ Single page React app that shows forecasted weather events for a single location
 ![Google Charts Timeline](./PREVIEW.png)
 
 ### Usage ###
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) - head over to this amazing project to learn more on how to kickoff the work.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) - head over to this amazing project to learn more on how to kickoff the work. To read the full project walkthrough, check out its [recipe on our documentation website](https://docs.tomorrow.io/recipes/monitor-forecasted-weather-events-with-an-insights-dashboard).
 
 ### Contributors ###
 This project exists thanks to our engineers building the [Tomorrow.io Weather API](https://tomorrow.io).
